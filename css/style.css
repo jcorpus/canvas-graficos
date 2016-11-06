@@ -1,0 +1,24 @@
+*{
+	margin:0;
+	padding: 0;
+}
+body{
+	background-color:#eceff0;
+	color:#222;
+	font-family: 'Roboto', sans-serif;
+}
+h1,h2{
+	font-weight:300;
+	padding:5px;
+	margin:10px;
+}
+.titulo{
+	padding:;
+	text-align:center;
+
+}
+.dibujos{
+	border: 1px dashed #222;
+	margin:0 auto;
+	display: block;
+}
